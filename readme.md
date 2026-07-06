@@ -1,6 +1,6 @@
 # NOVA X Product Landing Page
 
-[Live view](https://milanjosipovic.github.io/nova-x-product-landing-page/)
+<a href="https://milanjosipovic.github.io/nova-x-product-landing-page/" target="_blank">Live view</a>   
 
 A modern responsive product landing page built using:
 
