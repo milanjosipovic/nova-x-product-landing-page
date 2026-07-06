@@ -1,5 +1,7 @@
 # NOVA X Product Landing Page
 
+[Live view](https://milanjosipovic.github.io/nova-x-product-landing-page/)
+
 A modern responsive product landing page built using:
 
 - HTML5
